@@ -1,0 +1,16 @@
+HOME PAGE 
+NAVBAR - https://www.kanakkupillai.com/
+HERO - https://www.efiletax.in/
+SERVICES- https://www.kanakkupillai.com/ 
+ABOUT US - https://www.efiletax.in/ 
+OUR DIFFEERRNT MAKES  - ?
+Lets Understand -  https://www.efiletax.in/
+Our Client Review (Google) – Scroll - https://www.kanakkupillai.com/
+Our Latest Blog – Cards Display 
+Footer 
+
+NAVBAR – TO Respective pages – as per the selection 
+1.	Route Set Up is needed – 77 pages (Format) 
+WhatsApp – Left down alignment 
+Contact – right Top Sticky – Research needed
+
