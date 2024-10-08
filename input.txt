@@ -14,3 +14,11 @@ NAVBAR – TO Respective pages – as per the selection
 WhatsApp – Left down alignment 
 Contact – right Top Sticky – Research needed
 
+
+
+UI DESIGNS
+1. THEME FOREST
+2. FREEPICK
+3. FLATICON
+4. FIGMA==>PLUGIN==>HTML TO DESIGN
+5. ADOBE BG REMOVER
